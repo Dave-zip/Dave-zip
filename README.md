@@ -6,7 +6,6 @@
 
 ###
 
-imagem 
 
 ###
 
@@ -40,6 +39,5 @@ imagem
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dave-zip/Dave-zip/output/snake.svg" alt="Snake animation" />
 
 ###
